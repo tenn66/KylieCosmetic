@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="802f63be-215e-4ec7-9b9e-15e37ed5ead8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KylieCosmetics/CookieConsentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KylieCosmetics/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KylieCosmetics/MobileLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KylieCosmetics/ProductDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KylieCosmetics/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KylieCosmetics/SearchProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KylieCosmetics/SetUpPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KylieCosmetics/TearDownPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KylieCosmetics/WishListPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/KylieCosmetics/CompatibilityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/KylieCosmetics/FunctionalityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/KylieCosmetics/LoadTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/KylieCosmetics/MobileResponsivenessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/KylieCosmetics/SearchFunctionalityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/KylieCosmetics/SecurityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/KylieCosmetics/SocialMediaLinksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/KylieCosmetics/VerifyHomePageTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/KylieCosmetics/VerifyNavBarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PZJQehJLjKZhD1suaN9mJC38sb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/tenzinwangmo/IdeaProjects/Kylie_Cosmetics/src/main/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="/Users/tenzinwangmo/IdeaProjects/Kylie_Cosmetics/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Kylie_Cosmetics" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/tenzinwangmo/IdeaProjects/Kylie_Cosmetics/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="802f63be-215e-4ec7-9b9e-15e37ed5ead8" name="Changes" comment="" />
+      <created>1683658656948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683658656948</updated>
+    </task>
+    <servers />
+  </component>
+</project>
